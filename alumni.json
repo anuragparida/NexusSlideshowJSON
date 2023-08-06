@@ -1,0 +1,104 @@
+[
+    {
+        "type": "alumni",
+        "inlist": "no",
+        "title": "John Doe",
+        "description": "Google, THWS IMC (2020)",
+        "uuid": "123-4321432",
+        "badges": [
+            "Professor",
+            "Friendly",
+            "Quick Replies"
+        ],
+        "postedDate": "18.07.2023",
+        "postedTime": "12:11",
+        "class": "homeFeed",
+        "icon": "https://i.imgur.com/OuGAtLh_d.webp",
+        "img": "https://i.imgur.com/OuGAtLh_d.webp",
+        "almamater": ["THWS, 2013 (IMC)"],
+        "experiences":
+        [
+            {
+                "designation": "Google, Program Manager",
+                "duration": "2018-now"
+            },
+            {
+                "designation": "Microsoft, Program Manager",
+                "duration": "2016-2018"
+            },
+            {
+                "designation": "Microsoft, Program Lead",
+                "duration": "2015-2016"
+            }
+        ],
+        "messageCost": 30
+    },
+    {
+        "type": "alumni",
+        "inlist": "no",
+        "title": "John Doe",
+        "description": "Google, THWS IMC (2020)",
+        "uuid": "123-4321432",
+        "badges": [
+            "Student",
+            "Friendly",
+            "Quick Replies"
+        ],
+        "postedDate": "18.07.2023",
+        "postedTime": "12:11",
+        "class": "homeFeed",
+        "icon": "https://i.imgur.com/OuGAtLh_d.webp",
+        "img": "https://i.imgur.com/OuGAtLh_d.webp",
+        "almamater": ["THWS, 2013 (IMC)"],
+        "experiences":
+        [
+          {
+              "designation": "Google, Program Manager",
+              "duration": "2018-now"
+          },
+          {
+              "designation": "Microsoft, Program Manager",
+              "duration": "2016-2018"
+          },
+          {
+              "designation": "Microsoft, Program Lead",
+              "duration": "2015-2016"
+          }
+        ],
+        "messageCost": 30
+      },
+      {
+        "type": "alumni",
+        "inlist": "yes",
+        "title": "John Doe",
+        "description": "Google, THWS IMC (2020)",
+        "uuid": "123-4321432",
+        "badges": [
+            "Alumni",
+            "Friendly",
+            "Quick Replies"
+        ],
+        "postedDate": "18.07.2023",
+        "postedTime": "12:11",
+        "class": "homeFeed",
+        "icon": "https://i.imgur.com/OuGAtLh_d.webp",
+        "img": "https://i.imgur.com/OuGAtLh_d.webp",
+        "almamater": ["THWS, 2013 (IMC)"],
+        "experiences":
+        [
+          {
+              "designation": "Google, Program Manager",
+              "duration": "2018-now"
+          },
+          {
+              "designation": "Microsoft, Program Manager",
+              "duration": "2016-2018"
+          },
+          {
+              "designation": "Microsoft, Program Lead",
+              "duration": "2015-2016"
+          }
+        ],
+        "messageCost": 30
+    }
+]

@@ -1,6 +1,18 @@
 [
-    ["https://i.imgur.com/OuGAtLh_d.webp", "fhws.de/announcementlink"],
-    ["https://i.imgur.com/OuGAtLh_d.webp", "fhws.de/announcementlink"],
-    ["https://i.imgur.com/OuGAtLh_d.webp", "fhws.de/announcementlink"],
-    ["https://i.imgur.com/OuGAtLh_d.webp", "fhws.de/announcementlink"]
+    {
+        "image": "https://i.imgur.com/OuGAtLh_d.webp",
+        "link": "fhws.de/announcementlink"
+    },
+    {
+        "image": "https://i.imgur.com/OuGAtLh_d.webp",
+        "link": "fhws.de/announcementlink"
+    },
+    {
+        "image": "https://i.imgur.com/OuGAtLh_d.webp",
+        "link": "fhws.de/announcementlink"
+    },
+    {
+        "image": "https://i.imgur.com/OuGAtLh_d.webp",
+        "link": "fhws.de/announcementlink"
+    }
 ]
