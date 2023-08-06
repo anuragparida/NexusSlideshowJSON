@@ -1,7 +1,7 @@
 [
     {
         "type": "alumni",
-        "inlist": "no",
+        "partof": "no",
         "title": "John Doe",
         "description": "Google, THWS IMC (2020)",
         "uuid": "123-4321432",
@@ -35,7 +35,7 @@
     },
     {
         "type": "alumni",
-        "inlist": "no",
+        "partof": "no",
         "title": "John Doe",
         "description": "Google, THWS IMC (2020)",
         "uuid": "123-4321432",
@@ -69,7 +69,7 @@
       },
       {
         "type": "alumni",
-        "inlist": "yes",
+        "partof": "yes",
         "title": "John Doe",
         "description": "Google, THWS IMC (2020)",
         "uuid": "123-4321432",
