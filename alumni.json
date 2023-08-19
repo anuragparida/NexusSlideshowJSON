@@ -2,8 +2,8 @@
     {
         "type": "alumni",
         "partof": "no",
-        "title": "John Doe",
-        "description": "Google, THWS IMC (2020)",
+        "title": "Johnathan Doe",
+        "description": "Dept of Statistics, THWS IMC",
         "uuid": "123-4321432",
         "badges": [
             "Professor",
@@ -13,31 +13,27 @@
         "postedDate": "18.07.2023",
         "postedTime": "12:11",
         "class": "homeFeed",
-        "icon": "https://i.imgur.com/OuGAtLh_d.webp",
-        "img": "https://i.imgur.com/OuGAtLh_d.webp",
+        "icon": "https://i.imgur.com/7krQKC2.png",
+        "img": "https://i.imgur.com/7krQKC2.png",
         "almamater": ["THWS, 2013 (IMC)"],
         "experiences":
         [
             {
-                "designation": "Google, Program Manager",
+                "designation": "Dean of Stats, THWS",
                 "duration": "2018-now"
             },
             {
-                "designation": "Microsoft, Program Manager",
+                "designation": "Uni Ingolstadt, PhD Economics",
                 "duration": "2016-2018"
-            },
-            {
-                "designation": "Microsoft, Program Lead",
-                "duration": "2015-2016"
             }
         ],
-        "messageCost": 30
+        "messageCost": 0
     },
     {
         "type": "alumni",
         "partof": "no",
-        "title": "John Doe",
-        "description": "Google, THWS IMC (2020)",
+        "title": "Janeth Doe",
+        "description": "Student, THWS B&E (2020)",
         "uuid": "123-4321432",
         "badges": [
             "Student",
@@ -47,30 +43,22 @@
         "postedDate": "18.07.2023",
         "postedTime": "12:11",
         "class": "homeFeed",
-        "icon": "https://i.imgur.com/OuGAtLh_d.webp",
-        "img": "https://i.imgur.com/OuGAtLh_d.webp",
+        "icon": "https://i.imgur.com/uyw0PPa.png",
+        "img": "https://i.imgur.com/uyw0PPa.png",
         "almamater": ["THWS, 2013 (IMC)"],
         "experiences":
         [
           {
-              "designation": "Google, Program Manager",
-              "duration": "2018-now"
-          },
-          {
-              "designation": "Microsoft, Program Manager",
-              "duration": "2016-2018"
-          },
-          {
-              "designation": "Microsoft, Program Lead",
-              "duration": "2015-2016"
+              "designation": "Student, B&E",
+              "duration": "2020-now"
           }
         ],
-        "messageCost": 30
+        "messageCost": 5
       },
       {
         "type": "alumni",
         "partof": "yes",
-        "title": "John Doe",
+        "title": "Chadwick Hanson",
         "description": "Google, THWS IMC (2020)",
         "uuid": "123-4321432",
         "badges": [
@@ -81,8 +69,8 @@
         "postedDate": "18.07.2023",
         "postedTime": "12:11",
         "class": "homeFeed",
-        "icon": "https://i.imgur.com/OuGAtLh_d.webp",
-        "img": "https://i.imgur.com/OuGAtLh_d.webp",
+        "icon": "https://i.imgur.com/jvqv4Ed.png",
+        "img": "https://i.imgur.com/jvqv4Ed.png",
         "almamater": ["THWS, 2013 (IMC)"],
         "experiences":
         [
